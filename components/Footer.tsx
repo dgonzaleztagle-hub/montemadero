@@ -13,7 +13,7 @@ const Footer: React.FC = () => {
               <span className="text-[10px] tracking-ultra uppercase font-medium mt-1">Monte Madero</span>
             </div>
             <p className="text-white/40 font-light text-sm leading-relaxed">
-              Haciendo de cada evento una experiencia inolvidable con el más alto estándar de exclusividad y diseño.
+              Centro de eventos de moderno diseño ubicado en Hacienda Lampa. Especialistas en matrimonios, fiestas, aniversarios, lanzamientos, graduaciones y eventos corporativos.
             </p>
           </div>
 
@@ -48,6 +48,7 @@ const Footer: React.FC = () => {
             </div>
             <p className="text-xs text-white/40 font-light">contacto@montemadero.cl</p>
             <p className="text-xs text-white/40 font-light mt-1">+56 9 7853 2173</p>
+            <p className="text-xs text-white/40 font-light mt-1">Los Aromos 1626, Hacienda Lampa</p>
           </div>
 
         </div>

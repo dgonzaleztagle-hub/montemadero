@@ -19,10 +19,10 @@ const Hero: React.FC = () => {
 
       <div className="relative z-10 text-center px-4 max-w-5xl">
         <h1 className="font-serif text-5xl md:text-8xl text-white mb-8 leading-[1.1] animate-[fadeInUp_1s_ease-out]">
-          Donde la elegancia <br className="hidden md:block"/> encuentra su lugar
+          Centro de Eventos <br className="hidden md:block"/> Monte Madero
         </h1>
         <p className="text-white/80 text-lg md:text-xl font-light tracking-wide mb-12 max-w-2xl mx-auto animate-[fadeInUp_1.2s_ease-out]">
-          Exclusividad y diseño arquitectónico en el corazón de Hacienda Lampa.
+          Lo nuevo en Centro de Eventos, de moderno diseño y completo equipamiento para matrimonios, fiestas, aniversarios, lanzamientos, graduaciones y eventos corporativos.
         </p>
         
         <div className="flex flex-col sm:flex-row items-center justify-center gap-5 animate-[fadeInUp_1.4s_ease-out]">

@@ -9,7 +9,7 @@ const LocationSection: React.FC = () => {
           <span className="text-brand font-bold tracking-[0.4em] uppercase text-[10px] mb-6 block">Ubicación Estratégica</span>
           <h2 className="font-serif text-4xl md:text-6xl text-neutral-900 mb-8 leading-tight">Hacienda Lampa</h2>
           <p className="text-neutral-500 font-light text-lg leading-relaxed mb-10">
-            Situado a solo 30 minutos de Santiago, Monte Madero ofrece un escape rural sin sacrificar la comodidad urbana. Fácil acceso por Autopista Vespucio Norte y Ruta 5 Norte.
+            Monte Madero está ubicado en Santiago, en el sector Hacienda Lampa, de fácil acceso por las autopistas Vespucio Norte o Ruta 5 Norte. Un escenario privilegiado para hacer de tu evento algo inolvidable.
           </p>
           
           <div className="bg-neutral-50 p-10 flex gap-8 items-center border border-neutral-100">

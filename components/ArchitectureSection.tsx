@@ -31,10 +31,10 @@ const ArchitectureSection: React.FC = () => {
           </h2>
           <div className="space-y-6 text-neutral-500 font-light text-lg leading-relaxed">
             <p>
-              Monte Madero redefine el concepto de centros de eventos en Chile. Nuestra arquitectura contemporánea se fusiona con la naturaleza de Hacienda Lampa para crear una atmósfera de serenidad y sofisticación absoluta.
+              Monte Madero es lo nuevo en centros de eventos en Chile, ubicado en el corazón de Hacienda Lampa. Nuestro moderno diseño y completo equipamiento permiten el óptimo desarrollo de diversas actividades, desde matrimonios hasta eventos corporativos.
             </p>
             <p>
-              Contamos con una capilla minimalista, un espejo de agua central y amplios jardines diseñados para transiciones fluidas entre la ceremonia, el cóctel y la celebración.
+              Contamos con una capilla propia, jardines amplios, espejo de agua, zona cóctel, zona de asados, y todo lo que necesitas para hacer tu evento memorable. Nuestro personal especializado tiene vasta experiencia en todo tipo de celebraciones.
             </p>
           </div>
 

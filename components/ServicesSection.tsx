@@ -4,19 +4,19 @@ import { ServiceCardProps } from '../types';
 
 const SERVICES: ServiceCardProps[] = [
   {
-    title: 'Banquetería Premium',
-    description: 'Gastronomía de autor diseñada para deleitar los paladares más exigentes.',
-    image: 'https://images.unsplash.com/photo-1511795409834-ef04bbd61622?auto=format&fit=crop&q=80&w=1000'
+    title: 'Capilla Propia',
+    description: 'Espacio sagrado diseñado para ceremonias íntimas y solemnes en el corazón de nuestras instalaciones.',
+    image: 'https://montemadero.cl/wp-content/uploads/2019/02/C.jpg'
   },
   {
-    title: 'Diseño & Decoración',
-    description: 'Curatoría estética que transforma espacios en atmósferas mágicas.',
-    image: 'https://images.unsplash.com/photo-1519225421980-715cb0215aed?auto=format&fit=crop&q=80&w=1000'
+    title: 'Jardines & Espacios Verdes',
+    description: 'Gran variedad de espacios incluyendo jardines, espejo de agua y zonas diseñadas para cócteles y celebraciones.',
+    image: 'https://montemadero.cl/wp-content/uploads/2019/02/11.jpg'
   },
   {
-    title: 'Logística & Traslado',
-    description: 'Coordinación total para que tú solo te preocupes de disfrutar.',
-    image: 'https://images.unsplash.com/photo-1522673607200-164883eecd0c?auto=format&fit=crop&q=80&w=1000'
+    title: 'Personal Especializado',
+    description: 'Equipo de profesionales con vasta experiencia en todo tipo de eventos, coordinación y catering.',
+    image: 'https://montemadero.cl/wp-content/uploads/2019/02/B.jpg'
   }
 ];
 
