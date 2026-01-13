@@ -7,7 +7,7 @@ const Hero: React.FC = () => {
       {/* Background Video with Overlay */}
       <div className="absolute inset-0">
         <video 
-          src="/boda.mp4" 
+          src="/logoanimado.mp4" 
           autoPlay
           muted
           loop
