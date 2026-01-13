@@ -12,7 +12,7 @@ const Hero: React.FC = () => {
           muted
           loop
           playsInline
-          className="w-full h-full object-cover opacity-60"
+          className="w-full h-full object-cover opacity-60 md:object-center object-[60%_45%]"
         />
         <div className="absolute inset-0 bg-gradient-to-b from-black/40 via-transparent to-black/80"></div>
       </div>
